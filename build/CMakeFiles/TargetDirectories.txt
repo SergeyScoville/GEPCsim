@@ -1,0 +1,3 @@
+/afs/cern.ch/user/s/sscovill/GEPCsim/build/CMakeFiles/GEPCsim.dir
+/afs/cern.ch/user/s/sscovill/GEPCsim/build/CMakeFiles/edit_cache.dir
+/afs/cern.ch/user/s/sscovill/GEPCsim/build/CMakeFiles/rebuild_cache.dir
